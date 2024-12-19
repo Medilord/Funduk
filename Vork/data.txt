@@ -1,0 +1,9 @@
+Ivanov;Ivan;Ivanovich;01;10;1999;
+Sergev;Ivan;Ivanovich;01;10;1999;
+Ivanov;Oleg;Ivanovich;01;10;1999;
+Akinfeev;Petr;Sergeevich;12;01;2000;
+Azzkinfeev;Petr;Sergeevich;12;01;2000;
+Axxxzzkinfeev;Petr;Sergeevich;12;01;2000;
+Saaaargev;Ivan;Ivanovich;01;10;1999;
+Sazargev;Ivan;Ivanovich;01;10;1999;
+Akxxzzkinfeev;Petr;Sergeevich;12;01;2000;
